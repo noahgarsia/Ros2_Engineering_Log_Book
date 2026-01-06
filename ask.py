@@ -67,6 +67,7 @@ def locate_readme(target_path: str) -> Optional[str]:
         "perception",
         "demonstrations",
         "planning",
+        "configuation",
     }
 
     for i, part in enumerate(parts):
