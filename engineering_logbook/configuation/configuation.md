@@ -59,11 +59,4 @@ This section documents how the project is configured at a package and workspace 
 Runtime configuration support
 ## Launch Configuration
 **Location:**  
-`src/<package_name>/launch/`
-
-
-## Configuration Changes Log
-| Date       | File Modified        | Description |
-|------------|----------------------|-------------|
-| YYYY-MM-DD | `package.xml`        |             |
-| YYYY-MM-DD | `CMakeLists.txt`     |             |
+`src/<package_name>/launch/
